@@ -22,9 +22,9 @@
 
 <h2>Tecnologias</h2>
 <ul>
-  <li>Flutter</li>
-  <li>BLoC</li>
-  <li>Cubit</li>
+  <li><img src="imagens/Flutter.png"></li>
+  <li><img src="imagens/BLoC.png"></li>
+  <li><img src="imagens/Cubit.png"></li>
 </ul>
 
 <h4 align="center">
