@@ -17,12 +17,12 @@
 </p>
 
 <h4 align="center">
-  :check: Projeto Concluído
+  :white_check_mark: Projeto Concluído
 </h4>
 
 ## 🛠️ Abrir e rodar o projeto
 
-<h2>Aqui vem um passo a passo para abrir e rodar o projeto.</h2>
+<h4>Aqui vem um passo a passo para abrir e rodar o projeto.</h4>
 
 <ul>
   <li> Faça o download do arquivo </li>
