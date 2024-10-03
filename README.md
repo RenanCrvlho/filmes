@@ -7,7 +7,7 @@
 <p align="center"> Projeto criado através de um curso na Alura para implementação do gerenciador de estados BLoC com Cubit</p>
 <br></br>
 
-<h2>Objetivo</h2>
+<h2> :globe_with_meridians: Objetivo</h2>
 <br></br>
 
 <h2> :hammer_and_wrench: Abrir e rodar o projeto </h2>
@@ -20,10 +20,8 @@
 </ul>
 <br></br>
 
-<h2>Tecnologias</h2>
-<img src="imagens/Flutter.png"><p>Flutter</p>
-<img src="imagens/BLoC.png"><p>BLoC</p>
-<img src="imagens/Cubit.png"><p>Cubit</p>
+<h2> :computer: Tecnologias Utilizadas</h2>
+<p><img src="imagens/Flutter.png" alt="Flutter"> <img src="imagens/BLoC.png" alt="BLoC"> <img src="imagens/Cubit.png" alt="Cubit"></p>
 
 <h4 align="center">
   :white_check_mark: Projeto Concluído
