@@ -21,11 +21,9 @@
 <br></br>
 
 <h2>Tecnologias</h2>
-<ul>
-  <li><img src="imagens/Flutter.png"></li>
-  <li><img src="imagens/BLoC.png"></li>
-  <li><img src="imagens/Cubit.png"></li>
-</ul>
+<img src="imagens/Flutter.png">
+<img src="imagens/BLoC.png">
+<img src="imagens/Cubit.png">
 
 <h4 align="center">
   :white_check_mark: Projeto Concluído
