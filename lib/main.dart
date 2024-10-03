@@ -17,7 +17,7 @@ class BilheteriaPanucci extends StatelessWidget {
       create: (context) => ThemeCubit(),
       child: BlocBuilder<ThemeCubit, ThemeData>(
         builder: (context, state) => MaterialApp(
-          title: 'Bilheteria Panucci',
+          title: 'Cine Araujo',
           theme: state,
           home: const Home(),
         ),

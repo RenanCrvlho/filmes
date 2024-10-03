@@ -30,7 +30,7 @@ class _HomeState extends State<Home> {
             slivers: <Widget>[
               SliverToBoxAdapter(
                 child: Text(
-                  "Filmes",
+                  "Cine Araujo",
                   style: Theme.of(context).textTheme.displayLarge,
                 ),
               ),
