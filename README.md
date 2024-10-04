@@ -3,7 +3,7 @@
 </h1>
 <br></br>
 
-<img src="imagens/minions_cinema.gif" alt="Minions no cinema">
+<img align="center" src="imagens/minions_cinema.gif" alt="Minions no cinema">
 <br></br>
 
 <h2> :information_source: Descrição </h2>
