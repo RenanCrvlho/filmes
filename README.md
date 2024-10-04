@@ -3,7 +3,9 @@
 </h1>
 <br></br>
 
-<img align="center" src="imagens/minions_cinema.gif" alt="Minions no cinema">
+<div align="center">
+  <img src="imagens/minions_cinema.gif" alt="Minions no cinema">
+</div>
 <br></br>
 
 <h2> :information_source: Descrição </h2>
@@ -25,12 +27,15 @@
 <br></br>
 
 <h2> :computer: Tecnologias Utilizadas</h2>
-<ul>
-  <li> Flutter </li>
-  <li> BLoC </li>
-  <li> Cubit </li>
-</ul>
-<p><img src="imagens/Flutter.png" alt="Flutter"> <img src="imagens/BLoC.png" alt="BLoC"> <img src="imagens/Cubit.png" alt="Cubit"></p>
+
+<div>
+  <img src="imagens/Flutter.png" alt="Flutter">
+  <p>Flutter</p>
+  <img src="imagens/BLoC.png" alt="BLoC">
+  <p>BLoC</p>
+  <img src="imagens/Cubit.png" alt="Cubit">
+  <p>Cubit</p>
+</div>
 
 <h4 align="center">
   :white_check_mark: Projeto Concluído
