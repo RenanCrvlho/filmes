@@ -20,6 +20,7 @@ class BilheteriaPanucci extends StatelessWidget {
           title: 'Cine Araujo',
           theme: state,
           home: const Home(),
+          debugShowCheckedModeBanner: false,
         ),
       ),
     );
