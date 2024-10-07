@@ -18,6 +18,7 @@
 
 <h2> :: Telas</h2>
 <img src="imagens/AppMockup.png" alt="Mockup da tela do aplicativo">
+<img src="imagens/AppMockup2.png" alt="Mockup da tela do aplicativo">
 <br></br>
 
 <h2> :hammer_and_wrench: Abrir e rodar o projeto </h2>
