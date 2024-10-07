@@ -13,7 +13,7 @@
 <br></br>
 
 <h2> :globe_with_meridians: Objetivo</h2>
-<p align="center">O projeto tem como objetivo trazer uma lista com alguns filmes (simulando uma bilheteria) separados por gênero, onde o usuário irá conseguir selecionar o gênero (em um dropdown). O usuário também conseguirá</p>
+<p align="center">O projeto tem como objetivo trazer uma lista com alguns filmes (simulando uma bilheteria) separados por gênero, onde o usuário irá conseguir selecionar o gênero (em um dropdown). O usuário também conseguirá ver também a descrição do filme e suas sessões, ao clicar sobre o filme escolhido.</p>
 <br></br>
 
 <h2> :hammer_and_wrench: Abrir e rodar o projeto </h2>
