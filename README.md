@@ -18,8 +18,8 @@
 
 <h2> :iphone: Telas</h2>
 <p float="left">
-  <img src="imagens/AppMockup.png" alt="Mockup da tela do aplicativo" width="450">
-  <img src="imagens/AppMockup2.png" alt="Mockup da tela do aplicativo" width="450">
+  <img src="imagens/AppMockup.png" alt="Mockup da tela do aplicativo" width="400">
+  <img src="imagens/AppMockup2.png" alt="Mockup da tela do aplicativo" width="400">
 </p>
 <br></br>
 
