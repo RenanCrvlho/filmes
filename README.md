@@ -16,9 +16,11 @@
 <p>O projeto tem como objetivo trazer uma lista com alguns filmes (simulando uma bilheteria) separados por gênero, onde o usuário irá conseguir selecionar o gênero (em um dropdown). O usuário também conseguirá ver também a descrição do filme e suas sessões, ao clicar sobre o filme escolhido.</p>
 <br></br>
 
-<h2> :: Telas</h2>
-<img src="imagens/AppMockup.png" alt="Mockup da tela do aplicativo">
-<img src="imagens/AppMockup2.png" alt="Mockup da tela do aplicativo">
+<h2> :iphone: Telas</h2>
+<p float="left">
+  <img src="imagens/AppMockup.png" alt="Mockup da tela do aplicativo" width="500">
+  <img src="imagens/AppMockup2.png" alt="Mockup da tela do aplicativo" width="500">
+</p>
 <br></br>
 
 <h2> :hammer_and_wrench: Abrir e rodar o projeto </h2>
